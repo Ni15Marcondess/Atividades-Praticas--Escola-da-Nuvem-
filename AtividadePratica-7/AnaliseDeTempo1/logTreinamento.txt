@@ -1,0 +1,5 @@
+Modelo A - Tempo de execução: 12.4s
+Modelo B - Tempo de execução: 15.2s
+Modelo C - Tempo de execução: 13.1s
+Modelo D - Tempo de execução: 14.8s
+Modelo E - Tempo de execução: 16.0s

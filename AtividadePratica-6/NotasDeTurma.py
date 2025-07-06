@@ -22,7 +22,7 @@ def registrar_notas():
             nota = float(entrada)
             if 0 <= nota <= 10:
                 notas.append(nota)
-                print(f"✅ Nota {nota} registrada co sucesso!")
+                print(f"✅ Nota {nota} registrada com sucesso!")
             else:
                 print("⚠ Digite uma nota válida de um valor entre 0 e 10!")
         except ValueError:
